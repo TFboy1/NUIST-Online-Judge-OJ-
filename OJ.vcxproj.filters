@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="p1001.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p1003.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p1005.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p1013.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p1026%28不会%29.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p1031.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p1051.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p1052.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p1053.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p1070.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p1071.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p1077.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p1079.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p1080.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p1098.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p1099.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p1101.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p1103.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p1104.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p1105.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p1110（不会）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p1111%28不会%29.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p1113.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p1117%28不会%29.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p1195.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p1209.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p1267.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p1313.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p1488.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
